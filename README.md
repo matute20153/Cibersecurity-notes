@@ -2,7 +2,7 @@
 Apuntes y prácticas personales de Ciberseguridad y Linux
 # 👋 Hola, soy Matías Fava
 
-Soy estudiante de Linux, con foco en Ciberseguridad, redes y prácticas de laboratorio.  
+Soy estudiante de Linux, con foco en Ciberseguridad, redes y prácticas de laboratorio  
 Actualmente me encuentro formándome en Instituto Linux, también como autodidacta y documentando todo mi aprendizaje de manera ordenada y transparente.
 
 ---
