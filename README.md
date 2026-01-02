@@ -1,28 +1,35 @@
-# Cibersecurity-notes
-Apuntes y prácticas personales de Ciberseguridad y Linux
-# 👋 Hola, soy Matías Fava
+# # 👋 Hola, soy Matías Fava
 
-Soy estudiante de Linux, con foco en Ciberseguridad, redes y prácticas de laboratorio  
-Actualmente me encuentro formándome en Instituto Linux, también como autodidacta y documentando todo mi aprendizaje de manera ordenada y transparente.
+Soy estudiante de **ciberseguridad**, con una sólida base en **informática general**, tanto en **hardware** como en **software**.  
+Cuento con experiencia en **servicio técnico de computadoras**, diagnóstico, mantenimiento y resolución de problemas, lo que complemento actualmente con formación en **Linux, redes y seguridad informática**.
 
 ---
 
 ## 🎯 Objetivo
-Desarrollar una base sólida en ciberseguridad ofensiva y defensiva, aplicando buenas prácticas, ética profesional y aprendizaje continuo.
+Desarrollar un perfil profesional en **ciberseguridad**, apoyándome en mi experiencia previa en informática, aplicando buenas prácticas, ética profesional y aprendizaje continuo.
 
 ---
 
-## 🧠 Áreas que estoy estudiando
-- Linux (uso diario, comandos, administración básica)
-- Redes (conceptos, escaneo y análisis)
+## 🧠 Conocimientos y áreas de estudio
+### Informática
+- Diagnóstico y reparación de hardware
+- Armado y mantenimiento de PCs y notebooks
+- Instalación y configuración de sistemas operativos
+- Resolución de problemas de software
+- Soporte técnico a usuarios
+
+### Ciberseguridad (en formación)
+- Linux (uso diario y administración básica)
+- Redes (fundamentos, análisis y escaneo)
 - Ciberseguridad
 - Hacking ético (nivel inicial)
-- Entornos de laboratorio (VMs, pruebas controladas)
+- Prácticas en entornos de laboratorio
 
 ---
 
 ## 🛠️ Herramientas y tecnologías
-- Linux / Parrot OS
+- Windows / Linux
+- Parrot OS
 - Nmap
 - Wireshark
 - Aircrack-ng
@@ -32,16 +39,15 @@ Desarrollar una base sólida en ciberseguridad ofensiva y defensiva, aplicando b
 ---
 
 ## 📂 Sobre este repositorio
-Este repositorio contiene:
-- Apuntes personales
+En este repositorio documento:
+- Apuntes técnicos
 - Prácticas de laboratorio
-- Documentación de herramientas
-- Ejercicios realizados en entornos controlados
+- Uso de herramientas
+- Conceptos de informática y ciberseguridad
 
-> ⚠️ Todo el contenido es **educativo** y se realiza únicamente en **laboratorio propio o entornos de prueba**.
+> ⚠️ Todo el contenido es **educativo** y se realiza únicamente en **laboratorios propios o entornos de prueba**.
 
 ---
 
-## 🚀 En constante aprendizaje
-Me encuentro en proceso de formación continua, incorporando nuevas herramientas y conceptos a medida que avanzo.
-
+## 🚀 Aprendizaje continuo
+Me encuentro en constante formación, incorporando nuevas tecnologías y fortaleciendo mis conocimientos técnicos.
